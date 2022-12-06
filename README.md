@@ -1,4 +1,4 @@
 # coolweather
 ## 1. Introduction
 
-nothing but a newbie's project.
+Nothing but a newbie's project.
